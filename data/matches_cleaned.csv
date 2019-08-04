@@ -52,28 +52,28 @@ Year,Date,Time,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals
 1938.0,16 Jun 1938,18:00,Semi-finals,Stade V�lodrome,Marseilles ,Italy,2,1,Brazil, ,33000,0,0,WUETHRICH Hans (SUI),BERANEK Alois (AUT),MARENCO Paul (FRA),3489,1149,ITA,BRA
 1938.0,19 Jun 1938,17:00,Match for third place,Stade du Parc Lescure,Bordeaux ,Brazil,4,2,Sweden, ,12000,1,2,LANGENUS Jean (BEL),OLIVE D. (FRA),VALPREDE Ferdinand (FRA),3488,1151,BRA,SWE
 1938.0,19 Jun 1938,17:00,Final,Stade Olympique,Colombes ,Italy,4,2,Hungary, ,45000,3,1,CAPDEVILLE Georges (FRA),WUETHRICH Hans (SUI),KRIST Gustav (TCH),3487,1174,ITA,HUN
-1950.0,24 Jun 1950,15:00,Group 1,Maracan�,Rio De Janeiro ,Brazil,4,0,Mexico, ,81649,1,0,READER George (ENG),GRIFFITHS Benjamin (WAL),MITCHELL George (SCO),208,1187,BRA,MEX
-1950.0,25 Jun 1950,15:00,Group 2,Maracan�,Rio De Janeiro ,England,2,0,Chile, ,29703,1,0,VAN DER MEER Karel (NED),GARDELLI Mario (BRA),DAHLNER Gunnar (SWE),208,1192,ENG,CHI
+1950.0,24 Jun 1950,15:00,Group 1,Maracana,Rio De Janeiro ,Brazil,4,0,Mexico, ,81649,1,0,READER George (ENG),GRIFFITHS Benjamin (WAL),MITCHELL George (SCO),208,1187,BRA,MEX
+1950.0,25 Jun 1950,15:00,Group 2,Maracana,Rio De Janeiro ,England,2,0,Chile, ,29703,1,0,VAN DER MEER Karel (NED),GARDELLI Mario (BRA),DAHLNER Gunnar (SWE),208,1192,ENG,CHI
 1950.0,25 Jun 1950,15:00,Group 2,Durival de Brito,Curitiba ,Spain,3,1,USA, ,9511,0,1,VIANA Mario (BRA),DA COSTA VIEIRA Jose (POR),DE LA SALLE Charles (FRA),208,1208,ESP,USA
 1950.0,25 Jun 1950,15:00,Group 3,Pacaembu,Sao Paulo ,Sweden,3,2,Italy, ,36502,2,1,LUTZ Jean (SUI),BERANEK Alois (AUT),TEJADA Carlos (MEX),208,1219,SWE,ITA
 1950.0,25 Jun 1950,15:00,Group 1,Independencia,Belo Horizonte ,Yugoslavia,3,0,Switzerland, ,7336,0,0,GALEATI Giovanni (ITA),EKLIND Ivan (SWE),DATTILO Generoso (ITA),208,1230,YUG,SUI
 1950.0,28 Jun 1950,15:00,Group 1,Pacaembu,Sao Paulo ,Brazil,2,2,Switzerland, ,42032,2,1,AZON ROMA Ramon (ESP),BUSTAMANTE Sergio (CHI),DE NICOLA Cayetano (PAR),208,1188,BRA,SUI
 1950.0,28 Jun 1950,15:00,Group 1,Eucaliptos,Porto Alegre ,Yugoslavia,4,1,Mexico, ,11078,2,0,LEAFE Reginald (ENG),DAHLNER Gunnar (SWE),VAN DER MEER Karel (NED),208,1225,YUG,MEX
-1950.0,29 Jun 1950,15:00,Group 2,Maracan�,Rio De Janeiro ,Spain,2,0,Chile, ,19790,2,0,MALCHER Alberto (BRA),MARINO Esteban (URU),ALVAREZ Alfredo (BOL),208,1193,ESP,CHI
+1950.0,29 Jun 1950,15:00,Group 2,Maracana,Rio De Janeiro ,Spain,2,0,Chile, ,19790,2,0,MALCHER Alberto (BRA),MARINO Esteban (URU),ALVAREZ Alfredo (BOL),208,1193,ESP,CHI
 1950.0,29 Jun 1950,15:30,Group 3,Durival de Brito,Curitiba ,Sweden,2,2,Paraguay, ,7903,2,1,MITCHELL Robert (SCO),LEMESIC Leo (YUG),GARCIA Prudencio (USA),208,1228,SWE,PAR
 1950.0,29 Jun 1950,15:00,Group 2,Independencia,Belo Horizonte ,USA,1,0,England, ,10151,1,0,DATTILO Generoso (ITA),DE LA SALLE Charles (FRA),GALEATI Giovanni (ITA),208,1202,USA,ENG
-1950.0,01 Jul 1950,15:00,Group 1,Maracan�,Rio De Janeiro ,Brazil,2,0,Yugoslavia, ,142429,1,0,GRIFFITHS Benjamin (WAL),BERANEK Alois (AUT),DA COSTA VIEIRA Jose (POR),208,1191,BRA,YUG
-1950.0,02 Jul 1950,15:00,Group 2,Maracan�,Rio De Janeiro ,Spain,1,0,England, ,74462,0,0,GALEATI Giovanni (ITA),LUTZ Jean (SUI),DATTILO Generoso (ITA),208,1199,ESP,ENG
+1950.0,01 Jul 1950,15:00,Group 1,Maracana,Rio De Janeiro ,Brazil,2,0,Yugoslavia, ,142429,1,0,GRIFFITHS Benjamin (WAL),BERANEK Alois (AUT),DA COSTA VIEIRA Jose (POR),208,1191,BRA,YUG
+1950.0,02 Jul 1950,15:00,Group 2,Maracana,Rio De Janeiro ,Spain,1,0,England, ,74462,0,0,GALEATI Giovanni (ITA),LUTZ Jean (SUI),DATTILO Generoso (ITA),208,1199,ESP,ENG
 1950.0,02 Jul 1950,15:00,Group 3,Pacaembu,Sao Paulo ,Italy,2,0,Paraguay, ,25811,1,0,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),208,1218,ITA,PAR
 1950.0,02 Jul 1950,15:00,Group 4,Independencia,Belo Horizonte ,Uruguay,8,0,Bolivia, ,5284,4,0,READER George (ENG),VIANA Mario (BRA),LEMESIC Leo (YUG),208,1185,URU,BOL
 1950.0,02 Jul 1950,15:40,Group 1,Eucaliptos,Porto Alegre ,Switzerland,2,1,Mexico, ,3580,2,0,EKLIND Ivan (SWE),DAHLNER Gunnar (SWE),BUSTAMANTE Sergio (CHI),208,1222,SUI,MEX
 1950.0,02 Jul 1950,15:00,Group 2,Ilha do Retiro,Recife ,Chile,5,2,USA, ,8501,2,0,GARDELLI Mario (BRA),HEYEN Mario Ruben (PAR),ALVAREZ Alfredo (BOL),208,1194,CHI,USA
 1950.0,09 Jul 1950,15:00,Group 6,Pacaembu,Sao Paulo ,Uruguay,2,2,Spain, ,44802,1,2,GRIFFITHS Benjamin (WAL),DATTILO Generoso (ITA),ALVAREZ Alfredo (BOL),209,1207,URU,ESP
-1950.0,09 Jul 1950,15:00,Group 6,Maracan�,Rio De Janeiro ,Brazil,7,1,Sweden, ,138886,3,0,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),209,1189,BRA,SWE
-1950.0,13 Jul 1950,15:00,Group 6,Maracan�,Rio De Janeiro ,Brazil,6,1,Spain, ,152772,3,0,LEAFE Reginald (ENG),MITCHELL George (SCO),DA COSTA VIEIRA Jose (POR),209,1186,BRA,ESP
+1950.0,09 Jul 1950,15:00,Group 6,Maracana,Rio De Janeiro ,Brazil,7,1,Sweden, ,138886,3,0,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),209,1189,BRA,SWE
+1950.0,13 Jul 1950,15:00,Group 6,Maracana,Rio De Janeiro ,Brazil,6,1,Spain, ,152772,3,0,LEAFE Reginald (ENG),MITCHELL George (SCO),DA COSTA VIEIRA Jose (POR),209,1186,BRA,ESP
 1950.0,13 Jul 1950,15:00,Group 6,Pacaembu,Sao Paulo ,Uruguay,3,2,Sweden, ,7987,1,2,GALEATI Giovanni (ITA),BERANEK Alois (AUT),DE NICOLA Cayetano (PAR),209,1231,URU,SWE
 1950.0,16 Jul 1950,15:00,Group 6,Pacaembu,Sao Paulo ,Sweden,3,1,Spain, ,11227,2,0,VAN DER MEER Karel (NED),LUTZ Jean (SUI),GARCIA Prudencio (USA),209,1206,SWE,ESP
-1950.0,16 Jul 1950,15:00,Group 6,Maracan�,Rio De Janeiro ,Uruguay,2,1,Brazil, ,173850,0,0,READER George (ENG),ELLIS Arthur (ENG),MITCHELL George (SCO),209,1190,URU,BRA
+1950.0,16 Jul 1950,15:00,Group 6,Maracana,Rio De Janeiro ,Uruguay,2,1,Brazil, ,173850,0,0,READER George (ENG),ELLIS Arthur (ENG),MITCHELL George (SCO),209,1190,URU,BRA
 1954.0,16 Jun 1954,18:00,Group 3,Wankdorf Stadium,Berne ,Uruguay,2,0,Czechoslovakia, ,20500,0,0,ELLIS Arthur (ENG),LING William (ENG),SCHICKER Werner (SUI),211,1315,URU,TCH
 1954.0,16 Jun 1954,18:00,Group 3,Hardturm,Zurich ,Austria,1,0,Scotland, ,25000,1,0,FRANKEN Laurent (BEL),VIANA Mario (BRA),GULDE Josef (SUI),211,1236,AUT,SCO
 1954.0,16 Jun 1954,18:00,Group 1,Charmilles,Geneva ,Brazil,5,0,Mexico, ,13470,4,0,WYSSLING Paul (SUI),SCHONHOLZER Ernest (SUI),DA COSTA VIEIRA Jose (POR),211,1249,BRA,MEX
