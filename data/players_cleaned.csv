@@ -4613,7 +4613,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 220,1326,AUT,ARGAUER Josef (AUT),N,14,Pepi HAMMERL,,,,Austria
 220,1326,BRA,FEOLA Vicente (BRA),N,9,ZOZIMO,,,,Brazil
 220,1326,AUT,ARGAUER Josef (AUT),N,15,Walter KOLLMANN,,,,Austria
-220,1326,BRA,FEOLA Vicente (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+220,1326,BRA,FEOLA Vicente (BRA),N,10,PELE,,,,Brazil
 220,1326,AUT,ARGAUER Josef (AUT),N,16,Karl STOTZ,,,,Austria
 220,1326,BRA,FEOLA Vicente (BRA),N,11,GARRINCHA,,,,Brazil
 220,1326,AUT,ARGAUER Josef (AUT),N,17,Ernst KOZLICEK,,,,Austria
@@ -4701,7 +4701,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 220,1339,ENG,WINTERBOTTOM Walter (ENG),N,13,Alan HODGKINSON,,,,England
 220,1339,BRA,FEOLA Vicente (BRA),N,9,ZOZIMO,,,,Brazil
 220,1339,ENG,WINTERBOTTOM Walter (ENG),N,14,Peter SILLETT,,,,England
-220,1339,BRA,FEOLA Vicente (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+220,1339,BRA,FEOLA Vicente (BRA),N,10,PELE,,,,Brazil
 220,1339,ENG,WINTERBOTTOM Walter (ENG),N,15,Ronald CLAYTON,,,,England
 220,1339,BRA,FEOLA Vicente (BRA),N,11,GARRINCHA,,,,Brazil
 220,1339,ENG,WINTERBOTTOM Walter (ENG),N,16,Maurice NORMAN,,,,England
@@ -5078,7 +5078,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 220,1344,URS,KACHALIN Gavril (URS),S,3,Konstantin KRIZHEVSKI,,,,Soviet Union
 220,1344,BRA,FEOLA Vicente (BRA),S,7,Mario ZAGALLO,,,,Brazil
 220,1344,URS,KACHALIN Gavril (URS),S,4,Boris KUZNETSOV,,,,Soviet Union
-220,1344,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+220,1344,BRA,FEOLA Vicente (BRA),S,10,PELE,,,,Brazil
 220,1344,URS,KACHALIN Gavril (URS),S,5,Juri VOINOV,,,,Soviet Union
 220,1344,BRA,FEOLA Vicente (BRA),S,11,GARRINCHA,,,,Brazil
 220,1344,URS,KACHALIN Gavril (URS),S,6,Igor NETTO,C,,,Soviet Union
@@ -5524,7 +5524,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 221,1345,WAL,MURPHY James (WAL),S,3,Mel HOPKINS,,,,Wales
 221,1345,BRA,FEOLA Vicente (BRA),S,7,Mario ZAGALLO,,,,Brazil
 221,1345,WAL,MURPHY James (WAL),S,4,Derek SULLIVAN,,,,Wales
-221,1345,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,66,Brazil
+221,1345,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,66,Brazil
 221,1345,WAL,MURPHY James (WAL),S,5,Mel CHARLES,,,,Wales
 221,1345,BRA,FEOLA Vicente (BRA),S,11,GARRINCHA,,,,Brazil
 221,1345,WAL,MURPHY James (WAL),S,6,David BOWEN,C,,,Wales
@@ -5745,9 +5745,9 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 488,1340,FRA,BATTEAUX Albert (FRA),S,5,Andre LEROND,,,,France
 488,1340,BRA,FEOLA Vicente (BRA),S,7,Mario ZAGALLO,,,,Brazil
 488,1340,FRA,BATTEAUX Albert (FRA),S,10,Robert JONQUET,C,,,France
-488,1340,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,52,Brazil
-488,1340,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,64,Brazil
-488,1340,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,75,Brazil
+488,1340,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,52,Brazil
+488,1340,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,64,Brazil
+488,1340,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,75,Brazil
 488,1340,FRA,BATTEAUX Albert (FRA),S,12,Jean-Jacques MARCEL,,,,France
 488,1340,BRA,FEOLA Vicente (BRA),S,11,GARRINCHA,,,,Brazil
 488,1340,FRA,BATTEAUX Albert (FRA),S,13,Armand PENVERNE,,,,France
@@ -5840,8 +5840,8 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 3482,1343,SWE,RAYNOR George (ENG),S,4,Nils LIEDHOLM,C,G,4,Sweden
 3482,1343,BRA,FEOLA Vicente (BRA),S,7,Mario ZAGALLO,,G,68,Brazil
 3482,1343,SWE,RAYNOR George (ENG),S,6,Sigge PARLING,,,,Sweden
-3482,1343,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,55,Brazil
-3482,1343,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,90,Brazil
+3482,1343,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,55,Brazil
+3482,1343,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,90,Brazil
 3482,1343,SWE,RAYNOR George (ENG),S,7,Kurt HAMRIN,,,,Sweden
 3482,1343,BRA,FEOLA Vicente (BRA),S,11,GARRINCHA,,,,Brazil
 3482,1343,SWE,RAYNOR George (ENG),S,8,Gunnar GREN,,,,Sweden
@@ -5936,7 +5936,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 231,1461,MEX,TRELLEZ Ignacio (MEX),S,7,Alfredo DEL AGUILA,,,,Mexico
 231,1461,BRA,MOREIRA Aymore (BRA),S,8,DIDI,,,,Brazil
 231,1461,MEX,TRELLEZ Ignacio (MEX),S,8,Salvador REYES,,,,Mexico
-231,1461,BRA,MOREIRA Aymore (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,73,Brazil
+231,1461,BRA,MOREIRA Aymore (BRA),S,10,PELE,,G,73,Brazil
 231,1461,MEX,TRELLEZ Ignacio (MEX),S,9,Hector HERNANDEZ,,,,Mexico
 231,1461,BRA,MOREIRA Aymore (BRA),S,19,VAVA,,,,Brazil
 231,1461,MEX,TRELLEZ Ignacio (MEX),S,11,Isidoro DIAZ,,,,Mexico
@@ -6290,7 +6290,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 231,1462,TCH,VYTLACIL Rudolf (TCH),S,7,Josef STIBRANYI,,,,Czechoslovakia
 231,1462,BRA,MOREIRA Aymore (BRA),S,8,DIDI,,,,Brazil
 231,1462,TCH,VYTLACIL Rudolf (TCH),S,8,Adolf SCHERER,,,,Czechoslovakia
-231,1462,BRA,MOREIRA Aymore (BRA),S,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+231,1462,BRA,MOREIRA Aymore (BRA),S,10,PELE,,,,Brazil
 231,1462,TCH,VYTLACIL Rudolf (TCH),S,10,Jozef ADAMEC,,,,Czechoslovakia
 231,1462,BRA,MOREIRA Aymore (BRA),S,19,VAVA,,,,Brazil
 231,1462,TCH,VYTLACIL Rudolf (TCH),S,11,Josef JELINEK,,,,Czechoslovakia
@@ -6655,7 +6655,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 231,1460,ESP,HERRERA Helenio (ARG),S,22,Martin VERGES,,,,Spain
 231,1460,BRA,MOREIRA Aymore (BRA),N,9,COUTINHO,,,,Brazil
 231,1460,ESP,HERRERA Helenio (ARG),N,2,Salvador SADURNI,,,,Spain
-231,1460,BRA,MOREIRA Aymore (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+231,1460,BRA,MOREIRA Aymore (BRA),N,10,PELE,,,,Brazil
 231,1460,ESP,HERRERA Helenio (ARG),N,3,CARMELO,,,,Spain
 231,1460,BRA,MOREIRA Aymore (BRA),N,11,PEPE,,,,Brazil
 231,1460,ESP,HERRERA Helenio (ARG),N,5,Luis DEL SOL,,,,Spain
@@ -7011,7 +7011,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 232,1459,ENG,WINTERBOTTOM Walter (ENG),S,17,Bryan DOUGLAS,,,,England
 232,1459,BRA,MOREIRA Aymore (BRA),N,9,COUTINHO,,,,Brazil
 232,1459,ENG,WINTERBOTTOM Walter (ENG),N,4,Bobby ROBSON,,,,England
-232,1459,BRA,MOREIRA Aymore (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+232,1459,BRA,MOREIRA Aymore (BRA),N,10,PELE,,,,Brazil
 232,1459,ENG,WINTERBOTTOM Walter (ENG),N,5,Peter SWAN,,,,England
 232,1459,BRA,MOREIRA Aymore (BRA),N,11,PEPE,,,,Brazil
 232,1459,ENG,WINTERBOTTOM Walter (ENG),N,7,John CONNELLY,,,,England
@@ -7191,7 +7191,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 514,1458,CHI,RIERA Fernando (CHI),S,21,Armando TOBAR,,,,Chile
 514,1458,BRA,MOREIRA Aymore (BRA),N,9,COUTINHO,,,,Brazil
 514,1458,CHI,RIERA Fernando (CHI),N,4,Sergio NAVARRO,,,,Chile
-514,1458,BRA,MOREIRA Aymore (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+514,1458,BRA,MOREIRA Aymore (BRA),N,10,PELE,,,,Brazil
 514,1458,CHI,RIERA Fernando (CHI),N,10,Alberto FOUILLOUX,,,,Chile
 514,1458,BRA,MOREIRA Aymore (BRA),N,11,PEPE,,,,Brazil
 514,1458,CHI,RIERA Fernando (CHI),N,12,Adan GODOY,,,,Chile
@@ -7279,7 +7279,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 3480,1463,TCH,VYTLACIL Rudolf (TCH),S,19,Andrej KVASNAK,,,,Czechoslovakia
 3480,1463,BRA,MOREIRA Aymore (BRA),N,9,COUTINHO,,,,Brazil
 3480,1463,TCH,VYTLACIL Rudolf (TCH),N,2,Jan LALA,,,,Czechoslovakia
-3480,1463,BRA,MOREIRA Aymore (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+3480,1463,BRA,MOREIRA Aymore (BRA),N,10,PELE,,,,Brazil
 3480,1463,TCH,VYTLACIL Rudolf (TCH),N,7,Josef STIBRANYI,,,,Czechoslovakia
 3480,1463,BRA,MOREIRA Aymore (BRA),N,11,PEPE,,,,Brazil
 3480,1463,TCH,VYTLACIL Rudolf (TCH),N,9,Pavol MOLNAR,,,,Czechoslovakia
@@ -7399,7 +7399,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 238,1596,BUL,VYTLACIL Rudolf (TCH),S,4,Boris GAGANELOV,C,,,Bulgaria
 238,1596,BRA,FEOLA Vicente (BRA),S,8,PAULO HENRIQUE,,,,Brazil
 238,1596,BUL,VYTLACIL Rudolf (TCH),S,5,Dimitar PENEV,,,,Bulgaria
-238,1596,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,15,Brazil
+238,1596,BRA,FEOLA Vicente (BRA),S,10,PELE,,G,15,Brazil
 238,1596,BUL,VYTLACIL Rudolf (TCH),S,6,Dobromir JECHEV,,Y,1,Bulgaria
 238,1596,BRA,FEOLA Vicente (BRA),S,13,DENILSON,,Y,1,Brazil
 238,1596,BUL,VYTLACIL Rudolf (TCH),S,7,Dinko DERMENDZHIEV,,,,Bulgaria
@@ -7775,7 +7775,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 238,1597,HUN,BAROTI Lajos (HUN),N,12,Mate FENYVESI,,,,Hungary
 238,1597,BRA,FEOLA Vicente (BRA),N,9,RILDO,,,,Brazil
 238,1597,HUN,BAROTI Lajos (HUN),N,14,Istvan NAGY,,,,Hungary
-238,1597,BRA,FEOLA Vicente (BRA),N,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+238,1597,BRA,FEOLA Vicente (BRA),N,10,PELE,,,,Brazil
 238,1597,HUN,BAROTI Lajos (HUN),N,15,Dezso MOLNAR,,,,Hungary
 238,1597,BRA,FEOLA Vicente (BRA),N,12,MANGA,,,,Brazil
 238,1597,HUN,BAROTI Lajos (HUN),N,16,Lajos TICHY,,,,Hungary
@@ -8109,7 +8109,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 238,1598,POR,GLORIA Otto (BRA),S,11,ANTONIO SIMOES,,G,15,Portugal
 238,1598,BRA,FEOLA Vicente (BRA),S,9,RILDO,,G,73,Brazil
 238,1598,POR,GLORIA Otto (BRA),S,12,JOSE AUGUSTO,,,,Portugal
-238,1598,BRA,FEOLA Vicente (BRA),S,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+238,1598,BRA,FEOLA Vicente (BRA),S,10,PELE,,,,Brazil
 238,1598,POR,GLORIA Otto (BRA),S,13,EUSEBIO (Eusebio da Silva Ferreira),,G,27,Portugal
 238,1598,POR,GLORIA Otto (BRA),S,13,EUSEBIO (Eusebio da Silva Ferreira),,G,85,Portugal
 238,1598,BRA,FEOLA Vicente (BRA),S,13,DENILSON,,,,Brazil
@@ -9009,7 +9009,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 250,1770,TCH,MARKO Jozef (TCH),S,9,Ladislav KUNA,,,,Czechoslovakia
 250,1770,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,Y,1,Brazil
 250,1770,TCH,MARKO Jozef (TCH),S,10,Jozef ADAMEC,,,,Czechoslovakia
-250,1770,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,59,Brazil
+250,1770,BRA,ZAGALLO Mario (BRA),S,10,PELE,,G,59,Brazil
 250,1770,TCH,MARKO Jozef (TCH),S,11,Karol JOKL,,,,Czechoslovakia
 250,1770,BRA,ZAGALLO Mario (BRA),S,11,RIVELINO,,G,24,Brazil
 250,1770,TCH,MARKO Jozef (TCH),S,16,Ivan HRDLICKA,,O,46,Czechoslovakia
@@ -9363,7 +9363,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 250,1764,ENG,RAMSEY Alf (ENG),S,7,Francis LEE,,O,63,England
 250,1764,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,O,68,Brazil
 250,1764,ENG,RAMSEY Alf (ENG),S,8,Alan BALL,,,,England
-250,1764,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+250,1764,BRA,ZAGALLO Mario (BRA),S,10,PELE,,,,Brazil
 250,1764,ENG,RAMSEY Alf (ENG),S,9,Bobby CHARLTON,,O,63,England
 250,1764,BRA,ZAGALLO Mario (BRA),S,11,RIVELINO,,,,Brazil
 250,1764,ENG,RAMSEY Alf (ENG),S,10,Geoff HURST,,,,England
@@ -9547,8 +9547,8 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 250,1769,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,,,Brazil
 250,1769,ROU,NICULESCU Angelo (ROU),S,9,Florea DUMITRACHE,,G,34,Romania
 250,1769,ROU,NICULESCU Angelo (ROU),S,9,Florea DUMITRACHE,,O,72,Romania
-250,1769,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,19,Brazil
-250,1769,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,67,Brazil
+250,1769,BRA,ZAGALLO Mario (BRA),S,10,PELE,,G,19,Brazil
+250,1769,BRA,ZAGALLO Mario (BRA),S,10,PELE,,G,67,Brazil
 250,1769,ROU,NICULESCU Angelo (ROU),S,10,Radu NUNWEILLER,,,,Romania
 250,1769,BRA,ZAGALLO Mario (BRA),S,15,FONTANA,,,,Brazil
 250,1769,ROU,NICULESCU Angelo (ROU),S,11,Mircea LUCESCU,C,,,Romania
@@ -9912,7 +9912,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 251,1768,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,G,15,Brazil
 251,1768,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,G,52,Brazil
 251,1768,PER,DIDI (BRA),S,10,Teofilo CUBILLAS,,G,70,Peru
-251,1768,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+251,1768,BRA,ZAGALLO Mario (BRA),S,10,PELE,,,,Brazil
 251,1768,PER,DIDI (BRA),S,11,Alberto GALLARDO,,G,28,Peru
 251,1768,BRA,ZAGALLO Mario (BRA),S,11,RIVELINO,,G,11,Brazil
 251,1768,PER,DIDI (BRA),S,14,Jose FERNANDEZ,,,,Peru
@@ -10000,7 +10000,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 569,1771,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,,,Brazil
 569,1771,URU,HOHBERG Juan (URU),S,10,Ildo MANEIRO,,Y,1,Burundi
 569,1771,URU,HOHBERG Juan (URU),S,10,Ildo MANEIRO,,O,77,Burundi
-569,1771,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,,,Brazil
+569,1771,BRA,ZAGALLO Mario (BRA),S,10,PELE,,,,Brazil
 569,1771,URU,HOHBERG Juan (URU),S,11,Julio MORALES,,,,Burundi
 569,1771,BRA,ZAGALLO Mario (BRA),S,11,RIVELINO,,G,89,Brazil
 569,1771,URU,HOHBERG Juan (URU),S,15,Dagoberto FONTES,,Y,1,Burundi
@@ -10139,7 +10139,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 3476,1765,ITA,VALCAREGGI Ferruccio (ITA),S,11,Gigi RIVA,,,,Italy
 3476,1765,BRA,ZAGALLO Mario (BRA),S,9,TOSTAO,,,,Brazil
 3476,1765,ITA,VALCAREGGI Ferruccio (ITA),S,13,Angelo DOMENGHINI,,,,Italy
-3476,1765,BRA,ZAGALLO Mario (BRA),S,10,PEL� (Edson Arantes do Nascimento),,G,18,Brazil
+3476,1765,BRA,ZAGALLO Mario (BRA),S,10,PELE,,G,18,Brazil
 3476,1765,ITA,VALCAREGGI Ferruccio (ITA),S,15,Sandro MAZZOLA,,,,Italy
 3476,1765,BRA,ZAGALLO Mario (BRA),S,11,RIVELINO,,Y,1,Brazil
 3476,1765,ITA,VALCAREGGI Ferruccio (ITA),S,16,Giancarlo DE SISTI,,,,Italy
@@ -20774,7 +20774,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 337,3049,BOL,Xavier AZKARGORTA URIARTE (ESP),S,3,Marco Antonio SANDY,,,,Bolivia
 337,3049,GER,VOGTS Berti (GER),S,4,KOHLER,,Y,6,Germany
 337,3049,BOL,Xavier AZKARGORTA URIARTE (ESP),S,4,Miguel Angel RIMBA,,,,Bolivia
-337,3049,GER,VOGTS Berti (GER),S,7,M�LLER,,Y,54,Germany
+337,3049,GER,VOGTS Berti (GER),S,7,MULLER,,Y,54,Germany
 337,3049,BOL,Xavier AZKARGORTA URIARTE (ESP),S,5,Gustavo QUINTEROS,,Y,89,Bolivia
 337,3049,GER,VOGTS Berti (GER),S,8,H�SSLER,,O,83,Germany
 337,3049,BOL,Xavier AZKARGORTA URIARTE (ESP),S,6,Carlos BORJA,C,Y,66,Bolivia
@@ -21279,7 +21279,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 337,3060,ESP,CLEMENTE Javier (ESP),S,5,ABELARDO,,Y,38,Spain
 337,3060,GER,VOGTS Berti (GER),S,4,KOHLER,,,,Germany
 337,3060,ESP,CLEMENTE Javier (ESP),S,6,R. HIERRO,,Y,53,Spain
-337,3060,GER,VOGTS Berti (GER),S,7,M�LLER,,O,62,Germany
+337,3060,GER,VOGTS Berti (GER),S,7,MULLER,,O,62,Germany
 337,3060,ESP,CLEMENTE Javier (ESP),S,7,GOIKOETXEA,,G,14,Spain
 337,3060,ESP,CLEMENTE Javier (ESP),S,7,GOIKOETXEA,,O,64,Spain
 337,3060,GER,VOGTS Berti (GER),S,8,H�SSLER,,,,Germany
@@ -21957,7 +21957,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 337,3076,KOR,KIM Ho Kon (KOR),N,2,CHUNG Jong Son,,I,39,Korea Republic
 337,3076,GER,VOGTS Berti (GER),N,5,HELMER,,I,75,Germany
 337,3076,KOR,KIM Ho Kon (KOR),N,3,LEE Jong Uwa,,,,Korea Republic
-337,3076,GER,VOGTS Berti (GER),N,7,M�LLER,,I,64,Germany
+337,3076,GER,VOGTS Berti (GER),N,7,MULLER,,I,64,Germany
 337,3076,KOR,KIM Ho Kon (KOR),N,8,J Y NOH,,,,Korea Republic
 337,3076,GER,VOGTS Berti (GER),N,11,Stefan KUNTZ,,,,Germany
 337,3076,KOR,KIM Ho Kon (KOR),N,11,J W SEO,,IH,46,Korea Republic
@@ -22418,7 +22418,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 338,3085,BEL,VAN HIMST Paul (BEL),N,2,Dirk MEDVED,,,,Belgium
 338,3085,GER,VOGTS Berti (GER),N,3,Andreas BREHME,,IH,46,Germany
 338,3085,BEL,VAN HIMST Paul (BEL),N,3,BORKELMANS,,,,Belgium
-338,3085,GER,VOGTS Berti (GER),N,7,M�LLER,,,,Germany
+338,3085,GER,VOGTS Berti (GER),N,7,MULLER,,,,Germany
 338,3085,BEL,VAN HIMST Paul (BEL),N,9,Marc DE GRIJSE,,,,Belgium
 338,3085,GER,VOGTS Berti (GER),N,9,Karlheinz RIEDLE,,,,Germany
 338,3085,BEL,VAN HIMST Paul (BEL),N,11,Alex CZERNIATYNSKI,,I,76,Belgium
@@ -22873,7 +22873,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 796,3096,BUL,PENEV Dimitar (BUL),S,5,Petar HOUBCHEV,,,,Bulgaria
 796,3096,GER,VOGTS Berti (GER),S,6,Guido BUCHWALD,,,,Germany
 796,3096,BUL,PENEV Dimitar (BUL),S,6,Zlatko YANKOV,,,,Bulgaria
-796,3096,GER,VOGTS Berti (GER),S,7,M�LLER,,,,Germany
+796,3096,GER,VOGTS Berti (GER),S,7,MULLER,,,,Germany
 796,3096,BUL,PENEV Dimitar (BUL),S,7,KOSTADINOV,,O,90,Bulgaria
 796,3096,GER,VOGTS Berti (GER),S,8,H�SSLER,,Y,49,Germany
 796,3096,GER,VOGTS Berti (GER),S,8,H�SSLER,,O,82,Germany
@@ -23843,8 +23843,8 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 1014,8738,USA,SAMPSON Steve (USA),S,5,Thomas DOOLEY,C,,,USA
 1014,8738,GER,VOGTS Berti (GER),S,6,Olaf THON,,,,Germany
 1014,8738,USA,SAMPSON Steve (USA),S,6,David REGIS,,,,USA
-1014,8738,GER,VOGTS Berti (GER),S,7,M�LLER,,G,10,Germany
-1014,8738,GER,VOGTS Berti (GER),S,7,M�LLER,,O,89,Germany
+1014,8738,GER,VOGTS Berti (GER),S,7,MULLER,,G,10,Germany
+1014,8738,GER,VOGTS Berti (GER),S,7,MULLER,,O,89,Germany
 1014,8738,USA,SAMPSON Steve (USA),S,8,Earnie STEWART,,,,USA
 1014,8738,GER,VOGTS Berti (GER),S,10,H�SSLER,,O,50,Germany
 1014,8738,USA,SAMPSON Steve (USA),S,11,Eric WYNALDA,,O,65,USA
@@ -24415,7 +24415,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 1014,8753,YUG,SANTRAC Slobodan (SRB),S,7,Vladimir JUGOVIC,,,,Yugoslavia
 1014,8753,GER,VOGTS Berti (GER),S,6,Olaf THON,,,,Germany
 1014,8753,YUG,SANTRAC Slobodan (SRB),S,9,Predrag MIJATOVIC,,G,13,Yugoslavia
-1014,8753,GER,VOGTS Berti (GER),S,7,M�LLER,,O,57,Germany
+1014,8753,GER,VOGTS Berti (GER),S,7,MULLER,,O,57,Germany
 1014,8753,YUG,SANTRAC Slobodan (SRB),S,10,Dragan STOJKOVIC,C,G,52,Yugoslavia
 1014,8753,GER,VOGTS Berti (GER),S,13,Jens JEREMIES,,,,Germany
 1014,8753,YUG,SANTRAC Slobodan (SRB),S,11,Sinisa MIHAJLOVIC,,W,72,Yugoslavia
@@ -25137,7 +25137,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 1014,8767,IRN,TALEBI Jalal (IRN),N,12,NAKISA,GK,,,IR Iran
 1014,8767,GER,VOGTS Berti (GER),N,22,Jens LEHMANN,GK,,,Germany
 1014,8767,IRN,TALEBI Jalal (IRN),N,22,P. BROUMAND,GK,,,IR Iran
-1014,8767,GER,VOGTS Berti (GER),N,7,M�LLER,,,,Germany
+1014,8767,GER,VOGTS Berti (GER),N,7,MULLER,,,,Germany
 1014,8767,IRN,TALEBI Jalal (IRN),N,3,N. SAADAVI,,,,IR Iran
 1014,8767,GER,VOGTS Berti (GER),N,9,Ulf KIRSTEN,,I,69,Germany
 1014,8767,IRN,TALEBI Jalal (IRN),N,5,M. A. PEYRAVANI,,,,IR Iran
@@ -25601,7 +25601,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 1024,8777,MEX,LAPUENTE Manuel (MEX),N,7,Ramon RAMIREZ,,,,Mexico
 1024,8777,GER,VOGTS Berti (GER),N,6,Olaf THON,,,,Germany
 1024,8777,MEX,LAPUENTE Manuel (MEX),N,9,PELAEZ,,I,86,Mexico
-1024,8777,GER,VOGTS Berti (GER),N,7,M�LLER,,I,57,Germany
+1024,8777,GER,VOGTS Berti (GER),N,7,MULLER,,I,57,Germany
 1024,8777,MEX,LAPUENTE Manuel (MEX),N,10,GARCIA,,,,Mexico
 1024,8777,GER,VOGTS Berti (GER),N,9,Ulf KIRSTEN,,I,73,Germany
 1024,8777,MEX,LAPUENTE Manuel (MEX),N,16,Isaac TERRAZAS,,,,Mexico
@@ -25922,7 +25922,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 1025,8783,CRO,BLAZEVIC Miroslav (BIH),N,2,Petar KRPAN,,,,Croatia
 1025,8783,GER,VOGTS Berti (GER),N,6,Olaf THON,,,,Germany
 1025,8783,CRO,BLAZEVIC Miroslav (BIH),N,3,Anthony SERIC,,,,Croatia
-1025,8783,GER,VOGTS Berti (GER),N,7,M�LLER,,,,Germany
+1025,8783,GER,VOGTS Berti (GER),N,7,MULLER,,,,Germany
 1025,8783,CRO,BLAZEVIC Miroslav (BIH),N,5,Goran JURIC,,,,Croatia
 1025,8783,GER,VOGTS Berti (GER),N,9,Ulf KIRSTEN,,I,69,Germany
 1025,8783,CRO,BLAZEVIC Miroslav (BIH),N,8,Robert PROSINECKI,,,,Croatia
@@ -32786,7 +32786,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249722,300111116,GER,LOEW Joachim (GER),S,11,KLOSE,,G,26,Germany
 249722,300111116,GER,LOEW Joachim (GER),S,11,KLOSE,,O,68,Germany
 249722,300111116,AUS,VERBEEK Pim (NED),S,8,WILKSHIRE,,,,Australia
-249722,300111116,GER,LOEW Joachim (GER),S,13,M�LLER,,G,68,Germany
+249722,300111116,GER,LOEW Joachim (GER),S,13,MULLER,,G,68,Germany
 249722,300111116,AUS,VERBEEK Pim (NED),S,11,CHIPPERFIELD,,,,Australia
 249722,300111116,GER,LOEW Joachim (GER),S,14,BADSTUBER,,,,Germany
 249722,300111116,AUS,VERBEEK Pim (NED),S,13,GRELLA,,OH,46,Australia
@@ -33412,7 +33412,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249722,300061470,GER,LOEW Joachim (GER),S,11,KLOSE,,Y,37,Germany
 249722,300061470,GER,LOEW Joachim (GER),S,11,KLOSE,,RSY,37,Germany
 249722,300061470,SRB,ANTIC Radomir (SRB),S,15,�IGI?,,,,Serbia
-249722,300061470,GER,LOEW Joachim (GER),S,13,M�LLER,,O,70,Germany
+249722,300061470,GER,LOEW Joachim (GER),S,13,MULLER,,O,70,Germany
 249722,300061470,SRB,ANTIC Radomir (SRB),S,17,KRASI?,,,,Serbia
 249722,300061470,GER,LOEW Joachim (GER),S,14,BADSTUBER,,O,77,Germany
 249722,300061470,SRB,ANTIC Radomir (SRB),S,18,NINKOVI?,,O,70,Serbia
@@ -34284,8 +34284,8 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249722,300061468,GHA,RAJEVAC Milovan (SRB),S,6,ANNAN,,,,Ghana
 249722,300061468,GER,LOEW Joachim (GER),S,10,PODOLSKI,,,,Germany
 249722,300061468,GHA,RAJEVAC Milovan (SRB),S,8,JONATHAN,,,,Ghana
-249722,300061468,GER,LOEW Joachim (GER),S,13,M�LLER,,Y,43,Germany
-249722,300061468,GER,LOEW Joachim (GER),S,13,M�LLER,,O,67,Germany
+249722,300061468,GER,LOEW Joachim (GER),S,13,MULLER,,Y,43,Germany
+249722,300061468,GER,LOEW Joachim (GER),S,13,MULLER,,O,67,Germany
 249722,300061468,GHA,RAJEVAC Milovan (SRB),S,12,TAGOE,,O,64,Ghana
 249722,300061468,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 249722,300061468,GHA,RAJEVAC Milovan (SRB),S,13,A. AYEW,,Y,40,Ghana
@@ -34876,9 +34876,9 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249717,300061501,GER,LOEW Joachim (GER),S,11,KLOSE,,G,20,Germany
 249717,300061501,GER,LOEW Joachim (GER),S,11,KLOSE,,O,72,Germany
 249717,300061501,ENG,CAPELLO Fabio (ITA),S,10,ROONEY,,,,England
-249717,300061501,GER,LOEW Joachim (GER),S,13,M�LLER,,G,67,Germany
-249717,300061501,GER,LOEW Joachim (GER),S,13,M�LLER,,G,70,Germany
-249717,300061501,GER,LOEW Joachim (GER),S,13,M�LLER,,O,72,Germany
+249717,300061501,GER,LOEW Joachim (GER),S,13,MULLER,,G,67,Germany
+249717,300061501,GER,LOEW Joachim (GER),S,13,MULLER,,G,70,Germany
+249717,300061501,GER,LOEW Joachim (GER),S,13,MULLER,,O,72,Germany
 249717,300061501,ENG,CAPELLO Fabio (ITA),S,14,BARRY,,,,England
 249717,300061501,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 249717,300061501,ENG,CAPELLO Fabio (ITA),S,15,UPSON,,G,37,England
@@ -35264,9 +35264,9 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249718,300061505,GER,LOEW Joachim (GER),S,11,KLOSE,,G,68,Germany
 249718,300061505,GER,LOEW Joachim (GER),S,11,KLOSE,,G,89,Germany
 249718,300061505,ARG,MARADONA Diego (ARG),S,11,TEVEZ,,,,Argentina
-249718,300061505,GER,LOEW Joachim (GER),S,13,M�LLER,,G,3,Germany
-249718,300061505,GER,LOEW Joachim (GER),S,13,M�LLER,,Y,35,Germany
-249718,300061505,GER,LOEW Joachim (GER),S,13,M�LLER,,O,84,Germany
+249718,300061505,GER,LOEW Joachim (GER),S,13,MULLER,,G,3,Germany
+249718,300061505,GER,LOEW Joachim (GER),S,13,MULLER,,Y,35,Germany
+249718,300061505,GER,LOEW Joachim (GER),S,13,MULLER,,O,84,Germany
 249718,300061505,ARG,MARADONA Diego (ARG),S,14,MASCHERANO,C,Y,80,Argentina
 249718,300061505,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 249718,300061505,ARG,MARADONA Diego (ARG),S,15,OTAMENDI,,Y,11,Argentina
@@ -35440,7 +35440,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249719,300111114,ESP,DEL BOSQUE Vicente (ESP),N,20,J.MARTINEZ,,,,Spain
 249719,300111114,GER,LOEW Joachim (GER),N,23,GOMEZ,,I,81,Germany
 249719,300111114,ESP,DEL BOSQUE Vicente (ESP),N,21,SILVA,,I,86,Spain
-249719,300111114,GER,LOEW Joachim (GER),N,13,M�LLER,,,,Germany
+249719,300111114,GER,LOEW Joachim (GER),N,13,MULLER,,,,Germany
 249719,300111114,ESP,DEL BOSQUE Vicente (ESP),N,22,J.NAVAS,,,,Spain
 249720,300061510,URU,TABAREZ Oscar (URU),S,1,MUSLERA,GK,,,Burundi
 249720,300061510,GER,LOEW Joachim (GER),S,22,BUTT,GK,,,Germany
@@ -35460,7 +35460,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 249720,300061510,GER,LOEW Joachim (GER),S,8,�ZIL,,O,90,Germany
 249720,300061510,URU,TABAREZ Oscar (URU),S,15,PEREZ,,Y,61,Burundi
 249720,300061510,URU,TABAREZ Oscar (URU),S,15,PEREZ,,O,77,Burundi
-249720,300061510,GER,LOEW Joachim (GER),S,13,M�LLER,,G,19,Germany
+249720,300061510,GER,LOEW Joachim (GER),S,13,MULLER,,G,19,Germany
 249720,300061510,URU,TABAREZ Oscar (URU),S,16,M.PEREIRA,,,,Burundi
 249720,300061510,GER,LOEW Joachim (GER),S,17,MERTESACKER,,,,Germany
 249720,300061510,URU,TABAREZ Oscar (URU),S,17,AREVALO RIOS,,,,Burundi
@@ -36093,10 +36093,10 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255931,300186475,POR,PAULO BENTO (POR),S,4,MIGUEL,,OH,46,Portugal
 255931,300186475,GER,LOEW Joachim (GER),S,8,�ZIL,,O,63,Germany
 255931,300186475,POR,PAULO BENTO (POR),S,5,F. COENTR�O,,O,65,Portugal
-255931,300186475,GER,LOEW Joachim (GER),S,13,M�LLER,,P,12,Germany
-255931,300186475,GER,LOEW Joachim (GER),S,13,M�LLER,,G,45,Germany
-255931,300186475,GER,LOEW Joachim (GER),S,13,M�LLER,,G,78,Germany
-255931,300186475,GER,LOEW Joachim (GER),S,13,M�LLER,,O,82,Germany
+255931,300186475,GER,LOEW Joachim (GER),S,13,MULLER,,P,12,Germany
+255931,300186475,GER,LOEW Joachim (GER),S,13,MULLER,,G,45,Germany
+255931,300186475,GER,LOEW Joachim (GER),S,13,MULLER,,G,78,Germany
+255931,300186475,GER,LOEW Joachim (GER),S,13,MULLER,,O,82,Germany
 255931,300186475,POR,PAULO BENTO (POR),S,7,RONALDO,C,,,Portugal
 255931,300186475,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 255931,300186475,POR,PAULO BENTO (POR),S,8,J. MOUTINHO,,,,Portugal
@@ -36870,7 +36870,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255931,300186493,GHA,APPIAH James (GHA),S,9,PRINCE,,O,52,Ghana
 255931,300186493,GER,LOEW Joachim (GER),S,8,�ZIL,,,,Germany
 255931,300186493,GHA,APPIAH James (GHA),S,10,A. AYEW,,G,54,Ghana
-255931,300186493,GER,LOEW Joachim (GER),S,13,M�LLER,,,,Germany
+255931,300186493,GER,LOEW Joachim (GER),S,13,MULLER,,,,Germany
 255931,300186493,GHA,APPIAH James (GHA),S,11,MUNTARI,,Y,90,Ghana
 255931,300186493,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 255931,300186493,GHA,APPIAH James (GHA),S,17,RABIU,,O,78,Ghana
@@ -37697,7 +37697,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255931,300186469,USA,KLINSMANN Juergen (GER),S,8,DEMPSEY,C,,,USA
 255931,300186469,GER,LOEW Joachim (GER),S,10,PODOLSKI,,OH,46,Germany
 255931,300186469,USA,KLINSMANN Juergen (GER),S,13,JONES,,,,USA
-255931,300186469,GER,LOEW Joachim (GER),S,13,M�LLER,,G,55,Germany
+255931,300186469,GER,LOEW Joachim (GER),S,13,MULLER,,G,55,Germany
 255931,300186469,USA,KLINSMANN Juergen (GER),S,14,DAVIS,,O,59,USA
 255931,300186469,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 255931,300186469,USA,KLINSMANN Juergen (GER),S,15,BECKERMAN,,Y,62,USA
@@ -38023,7 +38023,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255951,300186460,GER,LOEW Joachim (GER),S,8,�ZIL,,G,120,Germany
 255951,300186460,ALG,HALILHODZIC Vahid (BIH),S,5,HALLICHE,C,Y,42,Algeria
 255951,300186460,ALG,HALILHODZIC Vahid (BIH),S,5,HALLICHE,C,O,97,Algeria
-255951,300186460,GER,LOEW Joachim (GER),S,13,M�LLER,,,,Germany
+255951,300186460,GER,LOEW Joachim (GER),S,13,MULLER,,,,Germany
 255951,300186460,ALG,HALILHODZIC Vahid (BIH),S,8,LACEN,,,,Algeria
 255951,300186460,GER,LOEW Joachim (GER),S,16,LAHM,C,Y,107,Germany
 255951,300186460,ALG,HALILHODZIC Vahid (BIH),S,10,FEGHOULI,,,,Algeria
@@ -38126,7 +38126,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255953,300186485,FRA,DESCHAMPS Didier (FRA),S,8,VALBUENA,,O,85,France
 255953,300186485,GER,LOEW Joachim (GER),S,11,KLOSE,,O,69,Germany
 255953,300186485,FRA,DESCHAMPS Didier (FRA),S,10,BENZEMA,,,,France
-255953,300186485,GER,LOEW Joachim (GER),S,13,M�LLER,,,,Germany
+255953,300186485,GER,LOEW Joachim (GER),S,13,MULLER,,,,Germany
 255953,300186485,FRA,DESCHAMPS Didier (FRA),S,11,GRIEZMANN,,,,France
 255953,300186485,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 255953,300186485,FRA,DESCHAMPS Didier (FRA),S,14,MATUIDI,,,,France
@@ -38174,7 +38174,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255955,300186474,GER,LOEW Joachim (GER),S,11,KLOSE,,G,23,Germany
 255955,300186474,GER,LOEW Joachim (GER),S,11,KLOSE,,O,58,Germany
 255955,300186474,BRA,SCOLARI Luiz Felipe (BRA),S,13,DANTE,,Y,68,Brazil
-255955,300186474,GER,LOEW Joachim (GER),S,13,M�LLER,,G,11,Germany
+255955,300186474,GER,LOEW Joachim (GER),S,13,MULLER,,G,11,Germany
 255955,300186474,BRA,SCOLARI Luiz Felipe (BRA),S,17,L GUSTAVO,,,,Brazil
 255955,300186474,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 255955,300186474,BRA,SCOLARI Luiz Felipe (BRA),S,20,BERNARD,,,,Brazil
@@ -38268,7 +38268,7 @@ RoundID,MatchID,Team Initials,Coach Name,Line-up,Shirt Number,Player Name,Positi
 255959,300186501,ARG,SABELLA Alejandro (ARG),S,8,PEREZ,,O,86,Argentina
 255959,300186501,GER,LOEW Joachim (GER),S,11,KLOSE,,O,88,Germany
 255959,300186501,ARG,SABELLA Alejandro (ARG),S,9,HIGUAIN,,O,78,Argentina
-255959,300186501,GER,LOEW Joachim (GER),S,13,M�LLER,,,,Germany
+255959,300186501,GER,LOEW Joachim (GER),S,13,MULLER,,,,Germany
 255959,300186501,ARG,SABELLA Alejandro (ARG),S,10,MESSI,C,,,Argentina
 255959,300186501,GER,LOEW Joachim (GER),S,16,LAHM,C,,,Germany
 255959,300186501,ARG,SABELLA Alejandro (ARG),S,14,MASCHERANO,,Y,64,Argentina
