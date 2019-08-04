@@ -6,7 +6,7 @@
 ### Project Overview
 The dataset we analyse is FIFA World Cup which have 3 different datasets about Winners, Players and Matches. The datasets are not perfect with lot of duplicated and incorrect data so our job is to clean the datasets to make it usable for meaningful data extraction.
 
-Please note: during the data cleaning process, we use the explode() function so please upgrade your pandas to 0.25.0 in order to make this function works.
+**Please note:** during the data cleaning process, we use the explode() function so please upgrade your pandas to 0.25.0 in order to make this function works.
 
 ### The datasets
 _For more information about the dataset, read [here](https://www.kaggle.com/abecklas/fifa-world-cup)._
